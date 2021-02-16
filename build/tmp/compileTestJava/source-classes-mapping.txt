@@ -1,2 +1,4 @@
-com/sd3/calculator/CalculatorApplicationTests.java
- com.sd3.calculator.CalculatorApplicationTests
+com/sd3/calculator/CalculatorApplicationTest.java
+ com.sd3.calculator.CalculatorApplicationTest
+com/sd3/calculator/service/CalculatorServiceTest.java
+ com.sd3.calculator.service.CalculatorServiceTest

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sd3.calculator.service.CalculatorServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-16T00:14:15" hostname="Reenas-MBP" time="0.019">
+  <properties/>
+  <testcase name="addReturnsSumOfTwoNumbers()" classname="com.sd3.calculator.service.CalculatorServiceTest" time="0.019"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,4 +1,6 @@
 com/sd3/calculator/CalculatorApplication.java
  com.sd3.calculator.CalculatorApplication
-com/sd3/calculator/Calculator.java
- com.sd3.calculator.Calculator
+com/sd3/calculator/service/CalculatorService.java
+ com.sd3.calculator.service.CalculatorService
+com/sd3/calculator/controller/CalculatorController.java
+ com.sd3.calculator.controller.CalculatorController
