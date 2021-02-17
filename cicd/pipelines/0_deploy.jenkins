@@ -23,11 +23,13 @@ pipeline {
             }
         }
         stage("SonarCubeAnalysis"){
-            script {
-                scannerHome = tool 'SonarQube Scanner 4.6'
-            }
-            withSonarQubeEnv('SonarQubeServer') {
-                sh "${scannerHome}/bin/sonar-scanner"
+            steps{
+                script {
+                    scannerHome = tool 'SonarQube Scanner 4.6'
+                }
+                withSonarQubeEnv('SonarQubeServer') {
+                    sh "${scannerHome}/bin/sonar-scanner"
+                }
             }
         }
     }
